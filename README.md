@@ -1,17 +1,12 @@
 # anicompass-frontend
 Frontend App consume which consumes the Backend APIs and renders the UI
 
-## Setup
-* Go inside the app dir
+## Getting Started
+
+First, run the development server:
+
 ```
-cd .\anicompass-frontend\
-```
-* Build the app
-```
-npm run build
+npm run dev
 ```
 
-* Start the server
-```
-npm run start
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
